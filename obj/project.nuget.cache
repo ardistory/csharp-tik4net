@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "3DG0y/fbjvEUGoaa5yAdhUinG4Y7AwSAo1R0ek5yuqTUPEvupCah0p3m9F6ec+kkEBxdipuEjocjhWNB1L2erA==",
+  "dgSpecHash": "Pt8Al2igMMP+5MW4lYkbqwFRxmVtNVv5wJP7Wl6tIJ6i9JU/K4h9qikIsBD+MRUv8Hs7FWr7u5jhCuScvPyBoQ==",
   "success": true,
   "projectFilePath": "D:\\server\\www\\CSharp\\C Sharp\\C Sharp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\EDP NET\\.nuget\\packages\\tik4net\\3.5.0\\tik4net.3.5.0.nupkg.sha512"
+  ],
   "logs": []
 }

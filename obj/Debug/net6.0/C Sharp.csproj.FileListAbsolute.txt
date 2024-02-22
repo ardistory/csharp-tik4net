@@ -12,3 +12,7 @@ D:\server\www\CSharp\C Sharp\obj\Debug\net6.0\refint\C Sharp.dll
 D:\server\www\CSharp\C Sharp\obj\Debug\net6.0\C Sharp.pdb
 D:\server\www\CSharp\C Sharp\obj\Debug\net6.0\C Sharp.genruntimeconfig.cache
 D:\server\www\CSharp\C Sharp\obj\Debug\net6.0\ref\C Sharp.dll
+D:\server\www\CSharp\C Sharp\bin\Debug\net6.0\tik4net.dll
+D:\server\www\CSharp\C Sharp\bin\Debug\net6.0\tik4net.objects.dll
+D:\server\www\CSharp\C Sharp\obj\Debug\net6.0\C Sharp.csproj.AssemblyReference.cache
+D:\server\www\CSharp\C Sharp\obj\Debug\net6.0\C Sharp.csproj.CopyComplete
