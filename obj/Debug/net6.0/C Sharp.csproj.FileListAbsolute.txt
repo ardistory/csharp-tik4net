@@ -16,3 +16,22 @@ D:\server\www\CSharp\C Sharp\bin\Debug\net6.0\tik4net.dll
 D:\server\www\CSharp\C Sharp\bin\Debug\net6.0\tik4net.objects.dll
 D:\server\www\CSharp\C Sharp\obj\Debug\net6.0\C Sharp.csproj.AssemblyReference.cache
 D:\server\www\CSharp\C Sharp\obj\Debug\net6.0\C Sharp.csproj.CopyComplete
+D:\LARAGON\www\CSharp\csharp-tik4net\bin\Debug\net6.0\C Sharp.exe
+D:\LARAGON\www\CSharp\csharp-tik4net\bin\Debug\net6.0\C Sharp.deps.json
+D:\LARAGON\www\CSharp\csharp-tik4net\bin\Debug\net6.0\C Sharp.runtimeconfig.json
+D:\LARAGON\www\CSharp\csharp-tik4net\bin\Debug\net6.0\C Sharp.dll
+D:\LARAGON\www\CSharp\csharp-tik4net\bin\Debug\net6.0\C Sharp.pdb
+D:\LARAGON\www\CSharp\csharp-tik4net\bin\Debug\net6.0\tik4net.dll
+D:\LARAGON\www\CSharp\csharp-tik4net\bin\Debug\net6.0\tik4net.objects.dll
+D:\LARAGON\www\CSharp\csharp-tik4net\obj\Debug\net6.0\C Sharp.csproj.AssemblyReference.cache
+D:\LARAGON\www\CSharp\csharp-tik4net\obj\Debug\net6.0\C Sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\LARAGON\www\CSharp\csharp-tik4net\obj\Debug\net6.0\C Sharp.AssemblyInfoInputs.cache
+D:\LARAGON\www\CSharp\csharp-tik4net\obj\Debug\net6.0\C Sharp.AssemblyInfo.cs
+D:\LARAGON\www\CSharp\csharp-tik4net\obj\Debug\net6.0\C Sharp.csproj.CoreCompileInputs.cache
+D:\LARAGON\www\CSharp\csharp-tik4net\obj\Debug\net6.0\C Sharp.sourcelink.json
+D:\LARAGON\www\CSharp\csharp-tik4net\obj\Debug\net6.0\C Sharp.csproj.Up2Date
+D:\LARAGON\www\CSharp\csharp-tik4net\obj\Debug\net6.0\C Sharp.dll
+D:\LARAGON\www\CSharp\csharp-tik4net\obj\Debug\net6.0\refint\C Sharp.dll
+D:\LARAGON\www\CSharp\csharp-tik4net\obj\Debug\net6.0\C Sharp.pdb
+D:\LARAGON\www\CSharp\csharp-tik4net\obj\Debug\net6.0\C Sharp.genruntimeconfig.cache
+D:\LARAGON\www\CSharp\csharp-tik4net\obj\Debug\net6.0\ref\C Sharp.dll
